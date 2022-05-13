@@ -1,0 +1,103 @@
+{
+  "mod_elements": [
+    {
+      "name": "Ironore",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironore"
+    },
+    {
+      "name": "Coalore",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coalore"
+    },
+    {
+      "name": "Goldore",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldore"
+    },
+    {
+      "name": "Redstoneore",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstoneore"
+    },
+    {
+      "name": "Diamondore",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondore"
+    },
+    {
+      "name": "Netheriteore",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteore"
+    },
+    {
+      "name": "Lapislazuliore",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lapislazuliore"
+    },
+    {
+      "name": "Emeraldore",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeraldore"
+    },
+    {
+      "name": "Slimeball",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "slimeball"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "more_synthetic_table",
+    "modName": "More synthetic table",
+    "version": "1.0.0",
+    "author": "19534, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.moresynthetictable",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}

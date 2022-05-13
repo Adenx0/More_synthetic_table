@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.ENDER_PEARL"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.ENDER_PEARL"
+      },
+      {
+        "value": "Blocks.END_PORTAL"
+      },
+      {
+        "value": "Items.ENDER_PEARL"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.ENDER_PEARL"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.END_GATEWAY"
+    },
+    "name": "end_gateway",
+    "namespace": "mod"
+  }
+}

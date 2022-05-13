@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:end_portal_frame"
+    },
+    "1": {
+      "item": "minecraft:ender_pearl"
+    },
+    "2": {
+      "item": "minecraft:end_portal_frame"
+    },
+    "3": {
+      "item": "minecraft:end_portal_frame"
+    },
+    "4": {
+      "item": "minecraft:ender_eye"
+    },
+    "5": {
+      "item": "minecraft:end_portal_frame"
+    },
+    "6": {
+      "item": "minecraft:end_portal_frame"
+    },
+    "7": {
+      "item": "minecraft:ender_pearl"
+    },
+    "8": {
+      "item": "minecraft:end_portal_frame"
+    }
+  },
+  "result": {
+    "item": "minecraft:end_portal",
+    "count": 1
+  }
+}
